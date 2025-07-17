@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cafae/static/css/main.feea850b.css",
+    "main.js": "/cafae/static/js/main.784faa76.js",
+    "static/js/453.670e15c7.chunk.js": "/cafae/static/js/453.670e15c7.chunk.js",
+    "static/media/headerImage.jpg": "/cafae/static/media/headerImage.0fdf40e0fe747ce1c6cb.jpg",
+    "index.html": "/cafae/index.html",
+    "main.feea850b.css.map": "/cafae/static/css/main.feea850b.css.map",
+    "main.784faa76.js.map": "/cafae/static/js/main.784faa76.js.map",
+    "453.670e15c7.chunk.js.map": "/cafae/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feea850b.css",
+    "static/js/main.784faa76.js"
+  ]
+}
